@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    height: 100vh;
+    background-color: rgb(107, 107, 107);
+    display: flex;
+    width: fit-content;
+    margin: auto;
+}
+
+canvas{
+    display: block;
+    background-color: aqua;
+}
+
+#main{
+    display: flex;
+    width: 100vh;
+    height: 100vh;
+    background-color: aliceblue;
+}
+
+p, h1, h3{
+    margin: 1vh 0 ;
+}
+p{
+    font-size: large;
+}
+
+button{
+    width: 50%;
+    height: 10%;
+    font-size: 300%;
+    font-weight: bold;
+    margin: 3vh 0;
+}
+
+
+
+#rightSide{
+    overflow: scroll;
+    margin-left: 3vw;
+}
+
+#renumberP{
+    display: none;
+    font-style: oblique;
+}
+
