@@ -22,7 +22,7 @@ that corresponds the given tree will take 4 registers.
 
 You can easily draw desired tree and calculate pebble game
 
-![image](https://user-images.githubusercontent.com/100124448/232595216-4e0e7dfa-6851-47b4-8807-5afe3881aae0.png)
+![image](https://user-images.githubusercontent.com/100124448/232602577-d02fc5af-2e08-4598-ab00-8eb8651ad074.png)
 
   Everything was done using js canvas, html and css, without any libraries or api.
   
