@@ -24,7 +24,7 @@ You can easily draw desired tree and calculate pebble game
 
 ![image](https://user-images.githubusercontent.com/100124448/232602577-d02fc5af-2e08-4598-ab00-8eb8651ad074.png)
 
-  Everything was done using js canvas, html and css, without any libraries or api.
+  Everything is done using js canvas, html and css.
   
   Implementing sethi-ulman-algorthm was a very easy task.
   Challenging part was to write a tree drawing algorithm. Idea I came up with is:
